@@ -137,10 +137,10 @@
     <Content Include="Assets\icons8_group_background_selected_filled_60px.png" />
     <Content Include="Assets\icons8_logout_rounded_up_filled_25px.png" />
     <Content Include="Assets\icons8_Salary_male_30px.png" />
-    <Content Include="Previews\EMS AddEmployee.png" />
-    <Content Include="Previews\EMS Dashboard.png" />
-    <Content Include="Previews\EMS Login.png" />
-    <Content Include="Previews\EMS SalaryEmployee.png" />
+    <Content Include="Previews\AddEmployee.png" />
+    <Content Include="Previews\Dashboard.png" />
+    <Content Include="Previews\Login.png" />
+    <Content Include="Previews\SalaryEmployee.png" />
     <None Include="Assets\pexels-jane-doan-1024248.jpg" />
   </ItemGroup>
   <ItemGroup>
